@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1004904467104",
+    "firebase_url": "https://da-fam.firebaseio.com",
+    "project_id": "da-fam",
+    "storage_bucket": "da-fam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004904467104:android:3dd950854369b5bb9c97c5",
+        "android_client_info": {
+          "package_name": "com.saadontech.da_fam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004904467104-64jrvlrvh770m1bg51toha4u32lfu6kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3qkOwEDT9xmS_Vzv0OIwOP_qodDWDlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004904467104-64jrvlrvh770m1bg51toha4u32lfu6kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
